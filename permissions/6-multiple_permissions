@@ -1,2 +1,2 @@
 #!/bin/bash
-chmos 774 hello
+chmos -774 hello
