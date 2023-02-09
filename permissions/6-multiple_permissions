@@ -1,2 +1,2 @@
 #!/bin/bash
-chmos -774 hello
+chmos ug=rwx,o=r hello
