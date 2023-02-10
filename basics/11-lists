@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lanS /root/holbertonschool-shell/basics/ .. /boot
+ls -lanU /root/holbertonschool-shell/basics/ .. /boot
